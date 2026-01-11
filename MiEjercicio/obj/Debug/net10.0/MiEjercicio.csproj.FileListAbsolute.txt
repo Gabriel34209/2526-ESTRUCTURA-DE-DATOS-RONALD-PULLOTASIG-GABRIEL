@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\bin\Debug\net10.0\MiEjercicio.exe
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\bin\Debug\net10.0\MiEjercicio.deps.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\bin\Debug\net10.0\MiEjercicio.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\bin\Debug\net10.0\MiEjercicio.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\bin\Debug\net10.0\MiEjercicio.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.sourcelink.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\refint\MiEjercicio.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\MiEjercicio.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiEjercicio\obj\Debug\net10.0\ref\MiEjercicio.dll
