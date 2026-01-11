@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\bin\Debug\net10.0\MiLoteria.exe
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\bin\Debug\net10.0\MiLoteria.deps.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\bin\Debug\net10.0\MiLoteria.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\bin\Debug\net10.0\MiLoteria.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\bin\Debug\net10.0\MiLoteria.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.sourcelink.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\refint\MiLoteria.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\MiLoteria.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MiLoteria\obj\Debug\net10.0\ref\MiLoteria.dll
