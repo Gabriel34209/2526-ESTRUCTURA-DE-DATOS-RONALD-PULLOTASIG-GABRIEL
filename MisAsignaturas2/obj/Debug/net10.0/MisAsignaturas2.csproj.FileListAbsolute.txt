@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\bin\Debug\net10.0\MisAsignaturas2.exe
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\bin\Debug\net10.0\MisAsignaturas2.deps.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\bin\Debug\net10.0\MisAsignaturas2.runtimeconfig.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\bin\Debug\net10.0\MisAsignaturas2.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\bin\Debug\net10.0\MisAsignaturas2.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.sourcelink.json
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\refint\MisAsignaturas2.dll
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.pdb
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\MisAsignaturas2.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Documentos\Visual Studio Code\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\MisAsignaturas2\obj\Debug\net10.0\ref\MisAsignaturas2.dll
