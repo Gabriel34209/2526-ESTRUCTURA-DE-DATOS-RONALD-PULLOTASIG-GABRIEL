@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\MisAsignaturas\\MisAsignaturas.csproj",
-      "projectName": "MisAsignaturas",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\MisAsignaturas\\MisAsignaturas.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\TRABAJOSEMANA14\\TRABAJOSEMANA14.csproj",
+      "projectName": "TRABAJOSEMANA14",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\TRABAJOSEMANA14\\TRABAJOSEMANA14.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\MisAsignaturas\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\OneDrive\\Documentos\\PROYECTOS MIOS\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG\\2526-ESTRUCTURA-DE-DATOS-RONALD-PULLOTASIG-GABRIEL\\TRABAJOSEMANA14\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
