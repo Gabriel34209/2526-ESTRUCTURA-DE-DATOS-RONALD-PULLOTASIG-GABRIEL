@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MisAsignaturas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cfe2be426d5764d0645981234e1f63b70c0e8c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bcf570ea5f9be081b4ad1cd8f13f112b4fad3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MisAsignaturas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MisAsignaturas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
